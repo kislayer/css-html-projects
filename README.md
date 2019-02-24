@@ -1,2 +1,2 @@
 # Html-projects-Initial(no css)
-Making a simple hotel website
+exploring html5 as a hobby and passion.
